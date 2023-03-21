@@ -95,6 +95,6 @@ if __name__ == '__main__':
     )
 
     demo.launch(share=True,
-                server_naem=args.server_name,
+                server_name=args.server_name,
                 server_port=args.server_port,
                 enable_queue=True)
